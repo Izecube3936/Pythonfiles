@@ -1,5 +1,5 @@
-#Klasser omfattar: skapande av klass med värden och parametrar (default-värden), init-metoden, skapandet av objekt, 
-#metoder knutna till klasser, användande av objekt, positionella argument
+#Content: creating of classes with values and parameters, the init-method, creating of objects,
+#methods belonging to classes, the use of classes, positionell arguments
 
 #Exempel 1
 
@@ -54,6 +54,7 @@ player1 = Tennisplayer("Tobias", "Andersson")   #Ett objekt skapas med två vär
 player1.greet()
 player2 = Tennisplayer("Fanny", "Alexandersson")
 player2.greet()
+
 
 
 
