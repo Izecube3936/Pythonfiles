@@ -1,5 +1,4 @@
-#COMPOUND INTEREST CALCULATOR
-#Covers: while-loops, userinput, casting, if and else statements, comparison operators, expression with pow(), boolean value
+#Content: while-loops, userinput, casting, if and else statements, comparison operators, expression with pow(), boolean value
 
 #Exempel 1
 
@@ -61,6 +60,7 @@ while True:
         break
 total = principle * pow((1 + rate / 100), time)         
 print(f"Balance after {time} year/years: ${total:.2f}") 
+
 
 
 
